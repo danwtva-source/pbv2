@@ -1,0 +1,9 @@
+{
+  "name": "Communities' Choice Portal Best Version",
+  "description": "A full-stack participatory budgeting platform for Torfaen, featuring applicant submission, committee scoring, admin management, and public voting modules.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
